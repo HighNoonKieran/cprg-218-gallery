@@ -1,0 +1,53 @@
+* { /* True for the whole page */
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header img {
+    margin:1rem;
+}
+body {
+    background-color: #cccccc;
+}
+header {
+    padding-bottom: 0.5rem;
+}
+figure {
+    padding: 1rem 4rem;
+    margin:1rem;
+    background-color: white;
+}
+main img {
+    max-width: 650px;
+    height: auto;
+    border-bottom: 10px solid #97bf04;
+}
+main h2 {
+    text-align: center;
+    margin-top: 1rem;
+}
+figcaption h3 {
+    padding: 1rem 0;
+}
+header {
+    color: #97bf04;
+    background-color: #120323;
+    text-align: center;
+}
+nav li{
+    background-color: #d9043d;
+    border: 1px solid #97bf04;
+    margin:1rem 0.5rem;
+    padding:0.5rem;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+footer {
+    background-color: #d9043d;
+    text-align: center;
+    padding:1rem 0;
+    color: white;
+}
